@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-
 <h3 align="center">👩🏻‍💻 Tech Stack 🛠️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
@@ -22,7 +20,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
 </p>
 <h3 align="center">👻 Cowork Tools 👻</h3>
-<p align="center">
+<p align="center"> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp 
