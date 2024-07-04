@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi 
 
-<h3 align="center">👩🏻‍💻 Tech Stack 🛠️</h3>
+<h3 align="center"> Tech Stack 🛠️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/React-61dbfb?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center">🐰 Connect with Me ! 🍑</h3>
+<h3 align="center"> Connect with Me ! 🍑</h3>
 <p align="center"> 
   <a href="mailto:ckdrb5177@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ckdrb5177@gmail.com"/></a>
 </p>
