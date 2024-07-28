@@ -34,5 +34,5 @@
 
 <h3 align="center">Connect with Me! 🍑</h3>
 <p align="center"> 
-  <a href="mailto:ckdrb5177@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ckdrb5177@gmail.com"/></a>
+  <a href="mailto:qkrckdrb4106@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=qkrckdrb4106@gmail.com"/></a>
 </p>
